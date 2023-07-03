@@ -13,4 +13,4 @@ This repository includes Python source code and Jupyter notebooks including:
 
 3. **FrequencyPlots_dynamics**: This notebook generates frequency plots that map out the periodic behavior of the system under varying `a21` and `a22` values. The categorization of different levels into periodicity functions is then graphed onto a heat maps in order to provide insights into the underlying dynamics of the system.
 
-4. **BifurcationGraphs_dynamics**: In this notebook, bifurcation diagrams are created to show the possible states of the dynamic system as a function of a bifurcation parameter (b0 or c12). 
+4. **BifurcationGraphs_dynamics**: In this notebook, bifurcation diagrams are created to show the possible states of the dynamic system as a function of a bifurcation parameter ('b0' or 'c12'). 
